@@ -1,0 +1,23 @@
+{
+    "name": "mytest/micro-service-sdk",
+    "description": "微服务-服务接口SDK",
+    "license": "Apache-2.0",
+    "require": {
+        "php": "^7.0"
+    },
+    "require-dev": {
+        "php": "^7.0"
+    },
+    "authors": [
+        {
+            "name": "my",
+            "email": "my@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "MicroService\\": "src"
+        }
+    }
+}

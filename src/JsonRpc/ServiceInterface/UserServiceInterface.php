@@ -1,6 +1,6 @@
 <?php
 
-namespace App\JsonRpc\ServiceInterface;
+namespace MicroServer\JsonRpc\ServiceInterface;
 
 interface UserServiceInterface
 {

@@ -1,7 +1,7 @@
 <?php
 declare(strict_types = 1);
 
-namespace App\JsonRpc\ServiceInterface;
+namespace MicroServer\JsonRpc\ServiceInterface;
 
 interface CalculatorServiceInterface
 {
